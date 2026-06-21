@@ -1,0 +1,9 @@
+# What I Learned From This Project
+
+Through this project, I learned how to integrate a Large Language Model (LLM) using the Groq API with Python. I learned the importance of securing API keys using environment variables and the .env file instead of hardcoding sensitive information.
+
+I gained practical experience in taking user input, generating AI-powered responses, and saving outputs in both TXT and JSON formats. I also learned how to use functions, error handling, and menu-based programming to make applications more organized and user-friendly.
+
+As a bonus, I developed a web interface using Streamlit, which helped me understand how Python applications can be converted into interactive web applications. I also learned Git and GitHub basics, including version control, commits, and pushing projects to a repository.
+
+Finally, I learned how cloud deployment works by deploying my project online and managing environment variables securely. This project improved my Python programming, API integration, project structuring, and deployment skills.
